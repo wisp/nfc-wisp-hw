@@ -14,7 +14,7 @@ Please send your questions and suggestions to the [**discussion board**](http://
 https://github.com/wisp/nfc-wisp-fw.git
 
 ###Andriod App repository
-Use cell-phone to updates E-ink display when loading **nfc-eink-img-update-demo**  firmware 
+Use cell-phone to updates E-ink display when loading **nfc-eink-img-update-demo** firmware.
 
 https://github.com/wisp/nfc-reader-app.git		
 
