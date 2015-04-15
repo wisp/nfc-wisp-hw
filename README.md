@@ -25,9 +25,12 @@ https://github.com/wisp/nfc-reader-app.git
 2. Feature:
   *  Communication carrier frequency: 13.56Mhz 
   *  Protocol: 
-            Hardware demoudulator can support ISO 14443-Type A/B and ISO 15693 NFC protocol, however, our [latestest firmware](https://github.com/wisp/nfc-wisp-fw.git) only implements  and fully tests ISO 14443-Type B protocol, the ISO 15693 is particially implemented but not fully implemented yet.
+  
+  Hardware demoudulator can support ISO 14443-Type A/B and ISO 15693 NFC protocol, however, our [latestest firmware](https://github.com/wisp/nfc-wisp-fw.git) only implements  and fully tests ISO 14443-Type B protocol, the ISO 15693 is particially implemented but not fully implemented yet.
 
-  *  Mode: NFC-WISP hardware can be configured in 3 different mode: 
+  *  Mode: 
+  
+   NFC-WISP hardware can be configured in 3 different mode: 
   	- **Passive** (battery-free) --- disconnect battery or remove Rz0
   	- **Semi-passive** (battery-assistant) -- connect battery and keep Rz0. The battery may not need to be charged, it only used for storage wireless power during communication **with** NFC reader and offer power later for high-power application.
 
