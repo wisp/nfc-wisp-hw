@@ -14,7 +14,7 @@ Please send your questions and suggestions to the [**discussion board**](http://
 https://github.com/wisp/nfc-wisp-fw.git
 
 ###Andriod App repository
-Use cell-phone to updates E-ink display when loading **nfc-eink-img-update-demo** firmware 
+Use cell-phone to updates E-ink display when loading **nfc-eink-img-update-demo**  firmware 
 
 https://github.com/wisp/nfc-reader-app.git		
 
@@ -33,7 +33,9 @@ https://github.com/wisp/nfc-reader-app.git
 
   	- **Active** (battery-powered) -- connect battery and keep Rz0. Charge the battery for running tasks **without** NFC reader.
 
-        **Note**: For semi-passive/active mode, a rechargable li-ion thin film battery will be connected to NFC-WISP, it can be directlly charged by **NFC reader** or **NFC-enabled cell-phone (may need custermized app to send more power)** and **13.56Mhz wireless charging system**  (see paper: Enabling Seamless Wireless Power Delivery in Dynamic Environment,Sample, A.P., Waters, B.H. ; Wisdom, S.T. ; Smith, J.R.).
+        **Note**: For semi-passive/active mode, a rechargable li-ion thin film battery will be connected to NFC-WISP, it can be directlly charged by **NFC reader** or **NFC-enabled cell-phone** (may need custormized app to send more power) and **13.56Mhz wireless charging system**  (see paper: Enabling Seamless Wireless Power Delivery in Dynamic Environment,Sample, A.P., Waters, B.H. ; Wisdom, S.T. ; Smith, J.R.).
+  
+    
 
 
 
